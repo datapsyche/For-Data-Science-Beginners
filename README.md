@@ -63,6 +63,9 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Linear Digressions](http://lineardigressions.com/)
 * [R-Podcast](https://r-podcast.org/)
 * [Not so standard deviations](http://nssdeviations.com/)
+* [AI Podcast](https://lexfridman.com/ai/)
+* [Machine Learning Guide](http://ocdevel.com/mlg)
+* [This Week in Machine Learning and AI](https://twimlai.com/)
 
 **Libraries:**
 * [Apache Singa](http://singa.apache.org/docs/overview.html)
